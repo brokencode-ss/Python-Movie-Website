@@ -16,7 +16,9 @@ This project is the end result of a Python Nanodegree Course offered by Udacity.
 **How to run the project**
 
 1)Download all the files in a single folder on your PC.
+
 2)Open the file entertainment_center.py in a Python Editor.
+
 3)Run the file using F5.
 
 **Contribution**
